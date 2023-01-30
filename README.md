@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on [HOLODILNIK](https://github.com/SenhorMaestro/Holodilnik)
  
-![data-science](https://user-images.githubusercontent.com/112179181/211513177-f5dad128-2bc4-44d8-8236-f77344ad71e6.jpeg)
 ![codewars](https://www.codewars.com/users/senhor%20maestro/badges/large?theme=light)
+![data-science](https://user-images.githubusercontent.com/112179181/211513177-f5dad128-2bc4-44d8-8236-f77344ad71e6.jpeg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
