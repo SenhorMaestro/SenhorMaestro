@@ -14,7 +14,7 @@
 <a href="https://t.me/estoy_hablando_contigo" target="_blank" rel="noreferrer"> 
     <img  hspace="15" src="https://steemitimages.com/p/3W72119s5BjWPGGUiZ9pqnZoj8JHYxCCp9dtn2QVeutFMyS7USjQzFhQBankXumkpSBD1yM1k24zdp3M4hxygjV1CEEMZAfGnBdLVoHgQ94F6JaFe3UCw8?format=match&mode=fit" margin-left=55px alt="telegram" width="41" height="40"/>  
     </a>
-  <a href="mailto:chebupelik21@yandex.ru" target="_blank" rel="noreferrer"> 
+  <a href="mailto:chebupelik21@yandex.ru?subject=Data Scientist" target="_blank" rel="noreferrer"> 
     <img  hspace="15"  src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG11.png"  margin-right=55px alt="telegram" width="60" height="40"/> 
    </a>
 </p>
