@@ -2,8 +2,6 @@
 <h3 align="center">A passionate data scientist from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senhormaestro&label=Profile%20views&color=0e75b6&style=flat" alt="senhormaestro" /> </p>
-
-- 🔭 I’m currently working on [HOLODILNIK](https://github.com/SenhorMaestro/Holodilnik)
  
 ![codewars](https://www.codewars.com/users/senhor%20maestro/badges/large?theme=light)
 ![data-science](https://user-images.githubusercontent.com/112179181/211513177-f5dad128-2bc4-44d8-8236-f77344ad71e6.jpeg)
